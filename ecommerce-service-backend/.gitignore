@@ -1,0 +1,22 @@
+
+
+# ---------- 补充规则 ----------
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+ENV/
+node_modules/
+site-packages/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.iml
+.pytest_cache/
+.mypy_cache/
+*.log
+.DS_Store
+Thumbs.db

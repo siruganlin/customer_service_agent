@@ -1,0 +1,23 @@
+# 环境变量文件
+.env
+
+# uv 虚拟环境（你这个项目的venv）
+.venv/
+venv/
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+/atguigu/test/
+/customer-service-backend/
+/uv.lock
